@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Ultra-coder-Aminul
 - 👀 I’m interested in cs
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on nothing
+- 🌱 I’m currently learning manythings
+- 💞️ I’m looking to collaborate on manything
 - 📫 How to reach me aminulislam90874@gmail.com
 - 😄 Pronouns: Aminul
-- ⚡ Fun fact: i am only a teenager
+- ⚡ Fun fact: i am from a village in Tripura
 
 <!---
 Ultra-coder-Aminul/Ultra-coder-Aminul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
